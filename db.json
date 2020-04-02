@@ -2,5 +2,9 @@
     "people": [{
         "id": 0,
         "name": "John"
+    }],
+    "animal":[{
+        "id":0,
+        "name":"Tiger"
     }]
 }
